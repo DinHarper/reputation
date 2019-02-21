@@ -197,3 +197,4 @@ while y !=2:
     else:
         y+=1
 
+print("ля жопа")

@@ -30,7 +30,7 @@ while y !=2:
         print("Аниме - 1")
         print("csgo - 2")
         print("dota2 - 3")
-        print("Сериалы - 4")
+        print("Сериалы - 4") #а код читают? 
         print("фанфики - 5")
         print("Учеба - 6")
         print("Кодинг - 7")

@@ -187,7 +187,7 @@ while y !=2:
     print(FrSem, " - у фракции семья")
     print(FrShk, " - у фракции дноклов")
     print(FrDv, " - у фракции гопников")
-    print(intel, " - интелект")
+    print(Intel, " - интелект")
     print(Str, " - сила")
     print(ChUm, " - юмор")
     print(mendm, " - ментальный дмг")
